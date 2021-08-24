@@ -4,7 +4,7 @@
 ## 简介
 由于国服有人吃饱了撑的没事干，天天打服，很多服务器都使用了IP白名单验证，但因为国内糟糕的网络环境，进行验证有时候很困难，便有了本工具。  
 本工具用于在使用加速器时进行SCPSL中某些服务器的IP白名单验证。效果图：
-![enter description here](https://cdn.jsdelivr.net/gh/XCwosjw/Pic-CDN@master/2.png)
+![enter description here](https://cdn.jsdelivr.net/gh/XCwosjw/CDN@main/Pic/2.png)
 
 ## 构建
 ```
