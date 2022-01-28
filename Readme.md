@@ -13,10 +13,9 @@ cd SCPSL-Verify-Tool
 pip install -r requirements.txt
 pyinstaller -F -w (--upx-dir) main.py
 ```
-不要吐槽打包出来的exe大，PyQt5就这样
 
 ## 使用
-在[Releases](https://github.com/XCwosjw/SCPSL-Verify-Tool/releases)下载最新版(不要吐槽大，PyQt5就这样)，然后打开腾讯加速器加速国服SL(其他加速器不确定行不行)，再打开本程序(打开可能较慢，因为是PyInstaller打包，要释放文件)，若显示的IP位置与节点的地域相同即为成功，然后直接进行验证即可。
+在[Releases](https://github.com/XCwosjw/SCPSL-Verify-Tool/releases)下载最新版，然后打开腾讯加速器加速国服SL(其他加速器不确定行不行)，再打开本程序(打开可能较慢，因为是PyInstaller打包，要释放文件)，若显示的IP位置与节点的地域相同即为成功，然后直接进行验证即可。
 
 ## FAQ
 Q：为啥我显示的IP位置与节点的地域不同？  
